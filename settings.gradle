@@ -1,0 +1,2 @@
+rootProject.name='MyMuPdf_demo'
+include ':mupdf', ':app'
